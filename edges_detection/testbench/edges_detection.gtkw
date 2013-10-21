@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.37 (w)1999-2012 BSI
+[*] Mon Oct 21 10:14:22 2013
+[*]
+[dumpfile] "/home/fabien/myvhdl/VHDL_Lib/edges_detection/testbench/simu/edges_detection_tb.ghw"
+[dumpfile_mtime] "Mon Oct 21 10:12:03 2013"
+[dumpfile_size] 96653
+[savefile] "/home/fabien/myvhdl/VHDL_Lib/edges_detection/testbench/edges_detection.gtkw"
+[timestart] 5095100000
+[size] 1505 504
+[pos] 170 178
+*-24.953264 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.edges_detection_tb.
+[sst_width] 224
+[signals_width] 238
+[sst_expanded] 1
+[sst_vpaned_height] 111
+@28
+top.edges_detection_tb.clk
+top.edges_detection_tb.reset
+top.edges_detection_tb.trig_inv
+@800028
+#{top.edges_detection_tb.triggers_vector[1:0]} top.edges_detection_tb.triggers_vector[1] top.edges_detection_tb.triggers_vector[0]
+@28
+top.edges_detection_tb.triggers_vector[1]
+top.edges_detection_tb.triggers_vector[0]
+@200
+-edges_detection
+@800028
+#{top.edges_detection_tb.triggers_vector_pulse[1:0]} top.edges_detection_tb.triggers_vector_pulse[1] top.edges_detection_tb.triggers_vector_pulse[0]
+@28
+top.edges_detection_tb.triggers_vector_pulse[1]
+top.edges_detection_tb.triggers_vector_pulse[0]
+@1001200
+-group_end
+-group_end
+@200
+-output
+@800029
+#{top.edges_detection_tb.triggers_vector_pulse[1:0]} top.edges_detection_tb.triggers_vector_pulse[1] top.edges_detection_tb.triggers_vector_pulse[0]
+@29
+top.edges_detection_tb.triggers_vector_pulse[1]
+top.edges_detection_tb.triggers_vector_pulse[0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

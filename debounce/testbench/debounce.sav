@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.37 (w)1999-2012 BSI
+[*] Thu Oct 17 16:14:35 2013
+[*]
+[dumpfile] "/opt/projects/case/firmware/caselib/sampler2voies/testbench/debounce_tb/simu/debounce_tb.ghw"
+[dumpfile_mtime] "Thu Oct 17 16:13:56 2013"
+[dumpfile_size] 29647250
+[savefile] "/opt/projects/case/firmware/caselib/sampler2voies/testbench/debounce_tb/debounce.sav"
+[timestart] 0
+[size] 1920 993
+[pos] -1 -1
+*-32.306465 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.debounce_tb.
+[sst_width] 224
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 283
+@28
+top.debounce_tb.reset
+top.debounce_tb.clk
+@200
+-stimulis
+@28
+top.debounce_tb.buttons_in
+@29
+top.debounce_tb.buttons_out
+@200
+-debounce
+@28
+top.debounce_tb.debounce_con.count
+[pattern_trace] 1
+[pattern_trace] 0
